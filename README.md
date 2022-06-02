@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Ich arbeite bei der [Contao Agentur](https://www.numero2.de/contao-agentur.html) numero2 - Agentur für digitales Marketing GbR - und wir haben ein wirklich großartiges Repository [hier](https://github.com/numero2). Dort findet ihr viele nützliche Erweiterungen für das CMS [Contao](https://www.numero2.de/contao.html).
+
+Mehr über mich findet Ihr auf der Autorenseite von [Torsten Materna](https://www.numero2.de/author/torsten-materna.html)
